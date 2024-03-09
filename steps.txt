@@ -1,0 +1,12 @@
+        Position and Layout for the ToastBox element
+1. Position for the ToastBox
+2. Flex for the ToastBox
+------------------------
+        Using Javascript to Add and Remove child element from ToastBox
+3. Add Click event to all Button  or using Click() function on of Button
+4. Append Child to the ToastBox
+5. using SetTimeOut to remove Child element of ToastBox
+-----------------------
+        Using Pseudo Element and Animation property
+6. Using Pseudo Element (::after) to add content
+7. Apply animation property.
